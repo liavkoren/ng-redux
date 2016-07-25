@@ -5,4 +5,4 @@ This repo reimplements the programming assignments from Andrew Ng's Cousera Mach
 ## Contents
 - ex1: Linear regression, gradient descent, parabolic error surface, iso-error curves, feature scaling & normalization
 
-- ex2: Logistic regression, optimization with SciPy, regularization, creating polynomial features. (In progress)
+- ex2: Logistic regression, optimization with SciPy, regularization, creating polynomial features, plotting non-linear decision boundaries.
